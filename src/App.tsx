@@ -45,7 +45,7 @@ function App() {
     {
       company: "Socialight Media",
       role: "Data Analyst",
-      location: "Hoboken, NJ",
+      location: "Hyderabad ,India",
       dates: "Jun. 2020 – Jun. 2024",
       highlights: [
         "Analyzed performance across 6+ marketing channels (paid search, paid social, email, SMS, organic, referral) and 3 funnel stages (acquisition → conversion → retention) to surface trend drivers and improve weekly optimization decisions.",
